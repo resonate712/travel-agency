@@ -5,7 +5,7 @@ By resonate712
 
 ## Scope
 
-The purpose of this database is to similate the database that a travel agency would have.  A travel agency plans a books vacations for customers.  As a result they would need a database to keep track of the itineraries for customers.  The database is divided into six tables:
+The purpose of this database is to simulate the database that a travel agency would have.  A travel agency plans a books vacations for customers.  As a result they would need a database to keep track of the itineraries for customers.  The database is divided into six tables:
 
 - Travelers
 - Vacations
